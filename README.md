@@ -35,4 +35,7 @@ Data Processing? No data pre-processing needed before scraping. After data is sc
 <img width="430" alt="Evaluation table" src="https://user-images.githubusercontent.com/61615185/203661083-c864428a-1544-43e1-9e55-73ee5eee4c8c.png">
 
 # Data Viz
+![line-graph](https://user-images.githubusercontent.com/61615185/203661420-b5b0ac37-4ec1-4fbd-ae88-f18c8e69bd87.png)
+![scale-graph](https://user-images.githubusercontent.com/61615185/203661448-a772a784-223b-4996-899b-8ac6db8bc5af.png)
 
+![bar-graph](https://user-images.githubusercontent.com/61615185/203661477-1b34b148-402d-40be-8ee6-3c77950636d6.png)
