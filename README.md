@@ -1,8 +1,12 @@
 # G12 - P1 - Survey: Web Data Scrapers
 Aaryan Gupta
+
 Krisha Vijay Gala
+
 Pranav Kishor Katariya
+
 Radhika Ganapathy
+
 Tirth Patel
 
 # Problem Statement
